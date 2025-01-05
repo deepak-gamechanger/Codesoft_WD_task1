@@ -1,0 +1,7 @@
+@media query and screen (max-width:600px){
+  *{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+}
