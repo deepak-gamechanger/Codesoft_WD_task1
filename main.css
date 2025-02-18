@@ -1,4 +1,4 @@
-* {
+*{
     margin: 0%;
     border: border-box;
     font-family: sans-serif;
@@ -45,8 +45,7 @@
     font-size: 40px;
 }
 
-.container1,
-.container2 {
+.container1,.container2 {
     display: flex;
  }
 
@@ -119,7 +118,6 @@
         margin-top: 190px;
         margin-left: 25px;
     }
-
     .built:hover {
         background-color: red;
         color: white;
@@ -195,8 +193,7 @@
         align-items: center;
         justify-content: center;
         margin-top: 190px;
-        margin-left: 25px;
-
+        margin-left: 25px
     }
 
     .built:hover {
